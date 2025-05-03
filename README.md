@@ -35,7 +35,7 @@ This project implements a real-time traffic sign detection system using a lightw
 
 ## 👨‍💻 Author
 
-**Rohit **  
+**Rohit**  
 Traffic Sign Detection | Autonomous Robotics | YOLOv5  
 [LinkedIn](https://www.linkedin.com/in/rohit-kurma-2a7249274/) • [Email](rohitkurma2000@gmail.com)
 
