@@ -30,33 +30,8 @@ This project implements a real-time traffic sign detection system using a lightw
 ## 📷 Sample Output
 
 *Real-time detection output showing bounding boxes and labels on detected signs.*  
-(Include a sample screenshot or video frame here)
+(Working On it)
 
-## 🧪 How to Run
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/Traffic-Sign-Detection-YOLOv5Lite-Rohit.git
-cd Traffic-Sign-Detection-YOLOv5Lite-Rohit
-
-# Install dependencies (in virtualenv or system-wide)
-pip install -r requirements.txt
-
-# Run detection
-python scripts/detect_and_control.py
-## 🚗 Supported Signs
-
-- Turn Left  
-- Turn Right  
-- Stop  
-- Honk  
-- U-Turn *(extend as needed)*
-
-## 📌 Future Work
-
-- Add sign-to-voice module for verbal cues  
-- Expand to multi-class detection (e.g., speed limits, no entry)  
-- Integrate GPS or magnetometer for full autonomous routing  
 
 ## 👨‍💻 Author
 
